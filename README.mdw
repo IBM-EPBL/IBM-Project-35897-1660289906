@@ -1,0 +1,5 @@
+# IBM-Project-35897-1660289906
+Car Resale value Prediction
+with difficult conditions.it is likely that sales of second hand imported car and used cars will increase.In many countries.it is common to lease a car rather than buying it outright.After the lease period is over .the buyer has the possibility to buy the car at its value.
+In order to predict the resale value of the car.we proposed an intelligent,flexible,and effective system that is based on using regression algorithms.Considering the main factors which would affect the resale value of a vehicle a regression model is to be built that would give the vehicle.
+we will be using various regresion algorithms and algorithm with the best accuracy will be taken as a solution.Then it will be integrated to the web based application where the user is notified with the status of his product.
